@@ -1,0 +1,8 @@
+{
+  "n_total": 48,
+  "n_included": 21,
+  "success_rate": 0.8333333333333334,
+  "mean_qc_flags": 1.4583333333333333,
+  "kappa": 0.44876325088339214,
+  "n_exclusions": 27
+}
